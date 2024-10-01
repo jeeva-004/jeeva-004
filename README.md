@@ -4,3 +4,4 @@ Comuper Science Student
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, and JavaScript.
 - 💞️ I’m looking to collaborate on Frontend Projects.
+- 💻 I practice daily on Frontend Mentor to build simple HTML and CSS components and upload them to my GitHub repository.
