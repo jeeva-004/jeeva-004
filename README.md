@@ -1,5 +1,5 @@
 # 👋 Hi I'm Jeevanantham M 
-Comuper Science Student
+Computer Science Student
 <img align="right" height="250" width="300" src="Code Coding GIF - Code Coding Programming - Discover & Share GIFs.gif">
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, and JavaScript.
