@@ -30,8 +30,9 @@
 - SCSS  
 
 ### Backend & Databases
+- Node.js  
+- Python (Flask-based web pipelines)  
 - MongoDB  
-- Python (Flask-based web pipelines)
 
 ### AI Integration
 - Building **AI model pipelines** using Python  
