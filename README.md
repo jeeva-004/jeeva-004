@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeevanantham M
 
-### Java Full Stack Developer | MCA Student (2024–2026)
+### Java Full Stack Developer | MCA Graduate (2024–2026)
 
 > **Building scalable, secure & user-friendly web applications.**
 
