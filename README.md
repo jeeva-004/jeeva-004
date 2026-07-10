@@ -92,5 +92,4 @@ A full-stack Agile Project & Sprint Management System designed to simplify proje
 ---
 
 ## 📊 GitHub Activity
-
-[![jeeva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeeva-004\&bg_color=ffffff\&color=2563eb\&line=2563eb\&point=1e40af\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jeeva's github activity graph](https://vercel.app)](https://github.com/ashutosh00710/github-readme-activity-graph)
