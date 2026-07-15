@@ -6,8 +6,6 @@
 
 <img align="right" height="250" width="300" src="Code Coding GIF - Code Coding Programming - Discover & Share GIFs.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeeva-004\&color=blueviolet)
-
 ---
 
 ## 💡 About Me
