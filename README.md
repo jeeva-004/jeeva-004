@@ -20,12 +20,12 @@ I'm continuously improving my skills by building practical full-stack projects a
 
 ## 🚀 Current Focus
 
-* 🔹 Java Full Stack Development
-* 🔹 Backend Development with Spring Boot
-* 🔹 Responsive Frontend Development using Angular
-* 🔹 RESTful API Development
-* 🔹 Relational Database Design with MySQL
-* 🔹 Building production-ready web applications
+*  Java Full Stack Development
+*  Backend Development with Spring Boot
+*  Responsive Frontend Development using Angular
+*  RESTful API Development
+*  Relational Database Design with MySQL
+*  Building production-ready web applications
 
 ---
 
