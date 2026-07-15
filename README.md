@@ -81,7 +81,7 @@ A full-stack Agile Project & Sprint Management System designed to simplify proje
 
 ## 📫 Connect With Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeevanantham-murugaiyan-6203ba28b/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeeva--m/)
 
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/jeeva_004)
 
