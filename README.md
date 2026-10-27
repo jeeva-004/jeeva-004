@@ -36,20 +36,6 @@ I work mainly with **Java, Spring Boot, Angular, and MySQL**. I'm focused on str
 
 ---
 
-### A project I'm building
-
-#### AgileFlow
-
-A Jira-inspired Agile project and sprint management system designed to organize projects, sprints, issues, work logs, and team collaboration.
-
-- Authentication and authorization
-- Role-based access control
-- Project and sprint management
-- Issue tracking and work logs
-- RESTful backend APIs and relational database design
-
-**Built with:** Angular · Spring Boot · Java · MySQL
-
 ### Problem solving
 
 I practice Data Structures & Algorithms to strengthen my problem-solving skills and understand the patterns behind solutions—not just memorize answers.
@@ -59,7 +45,6 @@ I practice Data Structures & Algorithms to strengthen my problem-solving skills 
 ### Find me around the web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevanantham_M-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva--m/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Jeevanantham004-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/jeevanantham004/)
 [![X](https://img.shields.io/badge/X-@jeeva__004-000000?style=flat&logo=x&logoColor=white)](https://x.com/jeeva_004)
 [![Instagram](https://img.shields.io/badge/Instagram-@nanthan.2004-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nanthan.2004/)
 
