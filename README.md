@@ -38,7 +38,7 @@ I work mainly with **Java, Spring Boot, Angular, and MySQL**. I'm focused on str
 
 ### Problem solving
 
-I practice Data Structures & Algorithms to strengthen my problem-solving skills and understand the patterns behind solutions—not just memorize answers.
+I practice Data Structures & Algorithms to strengthen my problem-solving skills and understand the patterns behind solutions.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Jeevanantham004-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/jeevanantham004/)
 
